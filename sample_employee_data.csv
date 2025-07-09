@@ -1,0 +1,7 @@
+Employee_ID,Name,Department,Salary,Joining_Date,Performance_Score
+1001,Alice,Sales,50000.0,2022-01-10,3.5
+1002,Bob,HR,55000.0,2021-12-05,4.2
+1003,Charlie,HR,,2022-02-01,3.8
+1004,David,,62000.0,2022-03-15,2.9
+1005,Eve,Sales,300000.0,2022-01-20,5.0
+1001,Alice,Sales,50000.0,2022-01-10,3.5
