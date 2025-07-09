@@ -40,23 +40,23 @@ streamlit run app.py
 
 📊 Sample Dataset
 Use the included sample_employee_data.csv to test features like:
-![Upload Section](screenshots/1.png)
+![Upload Section](1.png)
 
 Null values in "Salary" and "Department"
-![Upload Section](screenshots/2.png)
+![Upload Section](2.png)
 
 Duplicate employee entries
-![Upload Section](screenshots/2.png)
+![Upload Section](2.png)
 
 Data Types and Unique Values
-![Upload Section](screenshots/3.png)
+![Upload Section](3.png)
 
 📊 Summary Statistics
 Quick overview of each numeric column including mean, median, min, max, and standard deviation:
-![Upload Section](screenshots/4.png)
+![Upload Section](4.png)
 
 Outlier salary (₹300,000)
-![Upload Section](screenshots/5.png)
+![Upload Section](5.png)
 
 🧠 Technologies Used
 Streamlit – UI framework
